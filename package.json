@@ -1,0 +1,17 @@
+{
+  "name": "mailprocessor",
+  "version": "0.0.1",
+  "description": "Mail Processor for mtss helpdeks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "mail-listener-next": "^1.0.5",
+    "mailparser": "^2.2.0",
+    "mysql": "^2.15.0"
+  }
+}
